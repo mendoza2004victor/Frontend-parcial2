@@ -56,7 +56,7 @@ frontend/
 ## Repositorios
 
 Backend: [https://github.com/mendoza2004victor/Backend-parcial2.git]
-Frontend: [URL_REPO_FRONTEND]
+Frontend: [https://github.com/mendoza2004victor/Frontend-parcial2.git]
 
 ## Autor
 
